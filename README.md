@@ -4,7 +4,7 @@
 
 📅 Published: Nov. 11. 2019.
 
-🖍 By: [Bessa Nicoletta](https://www.linkedin.com/in/bessa-nicoletta-69442638/), [Yoonji Ha](https://www.linkedin.com/in/yoonjiha/), [Sujin Lee](https://www.linkedin.com/in/leesujin/)
+🖍 By: Hareesh Dwivedi
 
 ![Project Picture](photos/screenshot.png)
 
@@ -14,7 +14,7 @@
 
 <img src="photos/team.jpg" width="250" height="250" alt="team picture"/>
 
-This data visualisation storytelling project won the second prize among 15 entries in the [2019 A Data Storytelling Challenge](https://www.xds.humancentreddata.science/) hosted by [Experimental Data Science Singapore](https://www.meetup.com/ko-KR/Experimental_Data_Science/).
+This data visualisation storytelling project won the second prize among 15 entries in the [2021 A Data Storytelling Challenge](https://www.xds.humancentreddata.science/) hosted by [Experimental Data Science Singapore](https://www.meetup.com/ko-KR/Experimental_Data_Science/).
 
 ### The excerpt from notes from judges
 
