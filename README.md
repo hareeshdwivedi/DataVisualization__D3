@@ -2,7 +2,7 @@
 
 💗 Link: http://sg-int-marriage.herokuapp.com/
 
-📅 Published: Nov. 11. 2019.
+📅 Published: Nov. 11. 2021.
 
 🖍 By: Hareesh Dwivedi
 
